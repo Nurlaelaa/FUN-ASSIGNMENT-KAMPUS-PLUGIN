@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week8</string>
+    <string name="list">Mari kita List</string>
+    <string name="todo_list">Mari kita List</string>
+    <string name="TODO">ADD</string>
+    <string name="add">ADD</string>
+</resources>
